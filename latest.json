@@ -1,8 +1,8 @@
 {
-  "versionName": "0.7.0",
-  "versionCode": 2008,
+  "versionName": "0.7.1",
+  "versionCode": 2009,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.7.0 搜的成立：样本点采样（离登陆舱越远越值钱，站定读条）、12 格背包、回登陆舱存样本（死了没存的全丢）、信号值系统（越贪怪越多，顶部信号条可见）",
-  "fileSize": 18715839,
+  "changelog": "v0.7.1 素材合规修复：水星地表更换为水手10号影像、木星关卡战场改为木卫一伊奥的硫磺火山地表（均为 NASA 公共领域影像）；顺带一提，选星卡上木星的介绍也换成伊奥口径了",
+  "fileSize": 18661267,
   "minSupportedCode": 1
 }

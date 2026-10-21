@@ -1,8 +1,8 @@
 {
-  "versionName": "0.6.0",
-  "versionCode": 2007,
+  "versionName": "0.7.0",
+  "versionCode": 2008,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.6.0：全套游戏音效上线（15 个原创合成音效：射击/命中/死亡/受伤/冲刺/喷吐/建造/界面），主菜单可开关音效",
+  "changelog": "v0.7.0 搜的成立：样本点采样（离登陆舱越远越值钱，站定读条）、12 格背包、回登陆舱存样本（死了没存的全丢）、信号值系统（越贪怪越多，顶部信号条可见）",
   "fileSize": 18715839,
   "minSupportedCode": 1
 }

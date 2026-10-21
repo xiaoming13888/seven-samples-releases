@@ -1,0 +1,8 @@
+{
+  "versionName": "0.4.0",
+  "versionCode": 2005,
+  "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
+  "changelog": "v0.4.0：七大行星各自地表登场（NASA 真实影像）+ 主菜单选星界面；应用内自动更新上线；启用正式签名（今后更新都在 App 里完成）",
+  "fileSize": 18377304,
+  "minSupportedCode": 1
+}

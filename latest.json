@@ -1,8 +1,8 @@
 {
-  "versionName": "0.4.0",
-  "versionCode": 2005,
+  "versionName": "0.5.0",
+  "versionCode": 2006,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.4.0：七大行星各自地表登场（NASA 真实影像）+ 主菜单选星界面；应用内自动更新上线；启用正式签名（今后更新都在 App 里完成）",
-  "fileSize": 18377304,
+  "changelog": "v0.5.0 大版本：14 种专属异形登场（每颗星球 2 种：钻地/喷吐/冲撞/漂浮/重甲/滑行/潜行各有真行为）；前哨站建造系统（登陆舱 + 炮塔/屏障墙/采集器/补给站，攒生物质建家守家）",
+  "fileSize": 18508376,
   "minSupportedCode": 1
 }

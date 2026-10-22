@@ -1,8 +1,8 @@
 {
-  "versionName": "0.8.0",
-  "versionCode": 2011,
+  "versionName": "0.8.1",
+  "versionCode": 2012,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.8.0 多语言版：界面支持 English / 中文 / Français / Español / العربية / Русский，按手机系统语言自动切换 · Multilingual UI in 6 languages, follows your device language",
-  "fileSize": 18989147,
+  "changelog": "v0.8.1 新图标：金头盔 App 图标上线（桌面图标 + 自适应图标），主菜单也换上了 Logo · New app icon: the golden helmet",
+  "fileSize": 19861269,
   "minSupportedCode": 1
 }

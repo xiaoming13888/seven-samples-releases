@@ -1,8 +1,8 @@
 {
-  "versionName": "0.8.1",
-  "versionCode": 2012,
+  "versionName": "0.8.2",
+  "versionCode": 2013,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.8.1 新图标：金头盔 App 图标上线（桌面图标 + 自适应图标），主菜单也换上了 Logo · New app icon: the golden helmet",
-  "fileSize": 19861269,
+  "changelog": "v0.8.2 背景音乐上线（菜单舒缓氛围 + 局内低频风声双曲循环）+ 修复音效打久消失的问题；菜单页脚可分别开关音乐/音效 · Background music added, SFX dropout fixed",
+  "fileSize": 26564947,
   "minSupportedCode": 1
 }

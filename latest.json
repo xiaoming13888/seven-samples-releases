@@ -1,8 +1,8 @@
 {
-  "versionName": "0.7.2",
-  "versionCode": 2010,
+  "versionName": "0.8.0",
+  "versionCode": 2011,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.7.2 开局备战期：每局先有 60 秒备战（不出怪，顶部倒计时横幅，可提前迎战）、起始生物质提高到 90（开局就能建炮塔）、开战后异形从 4 只缓慢爬坡，不再开局涌怪",
-  "fileSize": 18661267,
+  "changelog": "v0.8.0 多语言版：界面支持 English / 中文 / Français / Español / العربية / Русский，按手机系统语言自动切换 · Multilingual UI in 6 languages, follows your device language",
+  "fileSize": 18989147,
   "minSupportedCode": 1
 }

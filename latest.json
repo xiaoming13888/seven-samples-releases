@@ -1,8 +1,8 @@
 {
-  "versionName": "0.8.2",
-  "versionCode": 2013,
+  "versionName": "0.9.0",
+  "versionCode": 2014,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.8.2 背景音乐上线（菜单舒缓氛围 + 局内低频风声双曲循环）+ 修复音效打久消失的问题；菜单页脚可分别开关音乐/音效 · Background music added, SFX dropout fixed",
-  "fileSize": 26564947,
+  "changelog": "v0.9.0 内容多样化：七颗星球各有环境危害（火山喷发/陨石/酸雨/沙尘暴/碎冰/冰原打滑/超音速阵风，全有预警）+ 新敌人异星拾荒者（会开枪的外星人小队，守着深区高价样本）· New: planetary hazards & alien scavengers",
+  "fileSize": 26630483,
   "minSupportedCode": 1
 }

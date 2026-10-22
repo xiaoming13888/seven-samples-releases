@@ -1,8 +1,8 @@
 {
-  "versionName": "0.7.1",
-  "versionCode": 2009,
+  "versionName": "0.7.2",
+  "versionCode": 2010,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.7.1 素材合规修复：水星地表更换为水手10号影像、木星关卡战场改为木卫一伊奥的硫磺火山地表（均为 NASA 公共领域影像）；顺带一提，选星卡上木星的介绍也换成伊奥口径了",
+  "changelog": "v0.7.2 开局备战期：每局先有 60 秒备战（不出怪，顶部倒计时横幅，可提前迎战）、起始生物质提高到 90（开局就能建炮塔）、开战后异形从 4 只缓慢爬坡，不再开局涌怪",
   "fileSize": 18661267,
   "minSupportedCode": 1
 }

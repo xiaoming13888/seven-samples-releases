@@ -1,8 +1,8 @@
 {
-  "versionName": "0.9.0",
-  "versionCode": 2014,
+  "versionName": "0.10.0",
+  "versionCode": 2015,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.9.0 内容多样化：七颗星球各有环境危害（火山喷发/陨石/酸雨/沙尘暴/碎冰/冰原打滑/超音速阵风，全有预警）+ 新敌人异星拾荒者（会开枪的外星人小队，守着深区高价样本）· New: planetary hazards & alien scavengers",
-  "fileSize": 26630483,
+  "changelog": "v0.10.0 视觉换新：七颗星球背景全部换成开阔全景图（火星红原野、木卫一巨木星、土星环……）+ 全新图标（宇航员与登陆舰，一眼能认） · New panoramic planet vistas & new icon",
+  "fileSize": 27545395,
   "minSupportedCode": 1
 }

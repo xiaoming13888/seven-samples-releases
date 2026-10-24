@@ -1,8 +1,8 @@
 {
-  "versionName": "0.10.0",
-  "versionCode": 2015,
+  "versionName": "0.11.0",
+  "versionCode": 2016,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.10.0 视觉换新：七颗星球背景全部换成开阔全景图（火星红原野、木卫一巨木星、土星环……）+ 全新图标（宇航员与登陆舰，一眼能认） · New panoramic planet vistas & new icon",
-  "fileSize": 27545395,
+  "changelog": "v0.11.0 立体角色全量上线：宇航员、登陆舱、14 种异形、外星拾荒者、4 种建筑全部换成 3/4 视角精灵（脚下有阴影，站在地上）+ 帧数修复 · All characters now 3/4-view sprites with contact shadows, FPS fix",
+  "fileSize": 35267222,
   "minSupportedCode": 1
 }

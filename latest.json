@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.2",
-  "versionCode": 2018,
+  "versionName": "0.11.2-diag1",
+  "versionCode": 2019,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.11.2 异形改为破土入场（不再从天上下来）；起始生物质 90→200，开局可铺全套建筑；修一处音效异常路径 · Ground-entry spawns, starting biomass 200, audio-path hardening",
-  "fileSize": 35332762,
+  "changelog": "【诊断版】只压负载、其余不动：存活敌数上限 14→6 只、粒子全部减半（火星沙尘 40→20）。请测火星两分钟被围攻时还闪不闪 · Diagnostic build: enemy cap 14→6, particles halved, all else unchanged",
+  "fileSize": 35332766,
   "minSupportedCode": 1
 }

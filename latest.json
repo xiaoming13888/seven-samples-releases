@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.3",
-  "versionCode": 2020,
+  "versionName": "0.11.4",
+  "versionCode": 2021,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.11.3 怪与样本点不再刷进天空带（全部钳制在地面上）；镜头改真实跟随：宇航员在地形上行走、登陆舱留在世界着陆点，屏外目标边缘有菱形指引 · Ground-band spawns, true following camera, offscreen markers",
-  "fileSize": 35332762,
+  "changelog": "v0.11.4 修备战期角色消失：地面全景图放回背景层，不再盖住宇航员/登陆舱/建筑 · Prep-phase characters visible again (panorama back to backdrop layer)",
+  "fileSize": 35332758,
   "minSupportedCode": 1
 }

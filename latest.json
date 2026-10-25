@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.1",
-  "versionCode": 2017,
+  "versionName": "0.11.2",
+  "versionCode": 2018,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.11.1 建造一点即建（不用再点两下）+ 钱不够会明说差多少；局内背景地平线抬高、走动时背景像红警一样卷动、静止时云层微漂 · One-tap building, raised horizon & scrolling panorama",
-  "fileSize": 35332758,
+  "changelog": "v0.11.2 异形改为破土入场（不再从天上下来）；起始生物质 90→200，开局可铺全套建筑；修一处音效异常路径 · Ground-entry spawns, starting biomass 200, audio-path hardening",
+  "fileSize": 35332762,
   "minSupportedCode": 1
 }

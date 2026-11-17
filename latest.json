@@ -1,8 +1,8 @@
 {
-  "versionName": "0.11.4",
-  "versionCode": 2021,
+  "versionName": "0.12.0",
+  "versionCode": 2022,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.11.4 修备战期角色消失：地面全景图放回背景层，不再盖住宇航员/登陆舱/建筑 · Prep-phase characters visible again (panorama back to backdrop layer)",
-  "fileSize": 35332758,
+  "changelog": "v0.12.0 接入真结算：商店（补给包小 $0.99/大 $3.99/金皮肤 $1.99）+ 每局免费复活一次 · v0.12.0 In-app purchases: supply packs + gold suit, one free revive per run",
+  "fileSize": 37262164,
   "minSupportedCode": 1
 }

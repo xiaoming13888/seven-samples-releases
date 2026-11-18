@@ -1,8 +1,8 @@
 {
-  "versionName": "0.12.2",
-  "versionCode": 2024,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.12.2 再修备战期宇航员/登陆舱看不见 · v0.12.2 Fixed invisible astronaut and lander during prep — please update and check",
-  "fileSize": 37262164,
-  "minSupportedCode": 1
+  "changelog": "v0.12.3 异形动起来 + 闪退排查 · v0.12.3 Aliens now animate while moving; crash investigation fixes included",
+  "fileSize": 37393240,
+  "minSupportedCode": 1,
+  "versionCode": 2025,
+  "versionName": "0.12.3"
 }

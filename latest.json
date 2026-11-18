@@ -1,8 +1,8 @@
 {
-  "versionName": "0.12.0",
-  "versionCode": 2022,
+  "versionName": "0.12.1",
+  "versionCode": 2023,
   "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.12.0 接入真结算：商店（补给包小 $0.99/大 $3.99/金皮肤 $1.99）+ 每局免费复活一次 · v0.12.0 In-app purchases: supply packs + gold suit, one free revive per run",
+  "changelog": "v0.12.1 修备战期宇航员/登陆舱看不见 · v0.12.1 Fixed invisible astronaut and lander during prep — they are visible on screen from the start",
   "fileSize": 37262164,
   "minSupportedCode": 1
 }

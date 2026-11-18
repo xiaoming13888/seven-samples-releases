@@ -1,8 +1,1 @@
-{
-  "apkUrl": "https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk",
-  "changelog": "v0.12.3 异形动起来 + 闪退排查 · v0.12.3 Aliens now animate while moving; crash investigation fixes included",
-  "fileSize": 37393240,
-  "minSupportedCode": 1,
-  "versionCode": 2025,
-  "versionName": "0.12.3"
-}
+{"apkUrl":"https://raw.githubusercontent.com/xiaoming13888/seven-samples-releases/main/seven-samples.apk","changelog":"v0.12.4 宇航员射击动作 + 沙虫蜿蜒爬行 · v0.12.4 Astronaut now shows a firing action when shooting; the sandworm slithers like a snake","fileSize":37393236,"minSupportedCode":1,"versionCode":2026,"versionName":"0.12.4"}
